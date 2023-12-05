@@ -1,6 +1,4 @@
 # jacarandasba
-Hexagon map of the distribution of Jacarandas in Buenos Aires City
-
 This is a map of hexagons depicting the distribution of jacaranda trees in Buenos Aires City.
 
 To create it, I used two tree datasets from the Government of the City of Buenos Aires. These datasets are available at: https://data.buenosaires.gob.ar/dataset/. Both datasets contain information about the city's trees, but the information included in each dataset is different, so I decided to combine them. (It is possible that both datasets may not be very precise.)
