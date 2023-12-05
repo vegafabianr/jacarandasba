@@ -6,3 +6,5 @@ To create it, I used two tree datasets from the Government of the City of Buenos
 The main tool in the code is the hexbin function from matplotlib. Other required libraries include pandas, geopandas, and shapely.
 
 The aesthetic inspiration for this graph comes from the "Cherry Blossoms of Washington DC" map, created in R by Samia Baig, which entered the longlist of Information is Beautiful Awards 2023 (https://github.com/samiaab1990/30-day-map-challenge/blob/main/hexagons/cherry_blossom.png).
+
+![link a imagen](https://github.com/vegafabianr/jacarandasba/blob/main/map.png)
