@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Import libraries
 
 import pandas as pd
@@ -11,9 +5,6 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 from shapely.geometry import Point
 import matplotlib.colors
-
-
-# In[ ]:
 
 
 # Read the csv archives
@@ -37,9 +28,6 @@ df2_jacarandas = df2_jacarandas.reset_index(drop=True)
 # Concatenate the two different datasets
 
 df = pd.concat([df1_jacarandas, df2_jacarandas])
-
-
-# In[ ]:
 
 
 # Define the colors for hexagons, text, and background
@@ -186,4 +174,3 @@ ax.axis('off')
 # Show the map
 
 plt.show()
-
